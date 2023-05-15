@@ -8,15 +8,15 @@
 ## About Me
 I am an Environmental Engineer and Professor with a doctorate in Engineering, focusing on Environmental Technologies, and a postdoctoral degree in Natural Resources. My passion lies in Remote Sensing and Vegetation Analysis, and I'm excited about how Artificial Intelligence can revolutionize this field. In my free time, I love hiking and birdwatching, always curious to learn more about our natural world.
 
-## Highlights from my Published Work
+## Projects
+* [Project AI-Remote Sensing](https://github.com/LucasOsco/AI-RemoteSensing) - AI-RemoteSensing is a collection of Jupyter and Google Colaboratory notebooks dedicated to leveraging Artificial Intelligence in Remote Sensing applications. This repository serves as an open-source platform for researchers, educators, and professionals to explore, learn, and expand their knowledge in this exciting intersection of technologies.
+
+## Published Work
 * [The Potential of Visual ChatGPT For Remote Sensing](https://arxiv.org/abs/2304.13009) - This paper investigates the potential of Visual ChatGPT in remote sensing. Our findings expose the model's limitations but also forecast its transformative potential in remote sensing image processing. This paper has been cited 20 times since its publication.
  
 * [A Review on Deep Learning in UAV Remote Sensing](https://arxiv.org/abs/2101.10861) - This comprehensive review examines 232 papers featuring Deep Learning applications with UAV-acquired data. Our findings underscore Deep Learning's promise in processing UAV-based image data, particularly within environmental, urban, and agricultural contexts. 
 
 [See all my publications](https://scholar.google.com/citations?user=aNzRGvQAAAAJ&hl)
-
-## Projects
-* [Project AI-Remote Sensing](https://github.com/LucasOsco/AI-RemoteSensing) - AI-RemoteSensing is a collection of Jupyter and Google Colaboratory notebooks dedicated to leveraging Artificial Intelligence in Remote Sensing applications. This repository serves as an open-source platform for researchers, educators, and professionals to explore, learn, and expand their knowledge in this exciting intersection of technologies.
 
 ## Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
