@@ -6,7 +6,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-%23A6CE39.svg?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0258-536X)
 
 ## About Me
-I am an Environmental Engineer and Professor with a doctorate in Engineering, focusing on Environmental Technologies, and a postdoctoral degree in Natural Resources. My passion lies in Remote Sensing and Vegetation Analysis, and I'm excited about how Artificial Intelligence can revolutionize this field. In my free time, I love hiking and birdwatching, always curious to learn more about our natural world.
+I am an Environmental Engineer and Professor with a doctorate in Engineering, focusing on Environmental Technologies, and a postdoctoral degree in Natural Resources. My passion lies in Remote Sensing and Vegetation Analysis, and I'm excited about how Artificial Intelligence can revolutionize this field.
 
 ## Projects
 * [Project AI-Remote Sensing](https://github.com/LucasOsco/AI-RemoteSensing) - AI-RemoteSensing is a collection of Jupyter and Google Colaboratory notebooks dedicated to leveraging Artificial Intelligence in Remote Sensing applications. This repository serves as an open-source platform for researchers, educators, and professionals to explore, learn, and expand their knowledge in this exciting intersection of technologies.
