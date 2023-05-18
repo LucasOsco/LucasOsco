@@ -12,7 +12,7 @@ I am an Environmental Engineer and Professor with a doctorate in Engineering, fo
 * [Project AI-Remote Sensing](https://github.com/LucasOsco/AI-RemoteSensing) - AI-RemoteSensing is a collection of Jupyter and Google Colaboratory notebooks dedicated to leveraging Artificial Intelligence in Remote Sensing applications. This repository serves as an open-source platform for researchers, educators, and professionals to explore, learn, and expand their knowledge in this exciting intersection of technologies.
 
 ## Published Work
-* [The Potential of Visual ChatGPT For Remote Sensing](https://arxiv.org/abs/2304.13009) - This paper investigates the potential of Visual ChatGPT in remote sensing. Our findings expose the model's limitations but also forecast its transformative potential in remote sensing image processing.
+* [The Potential of Visual ChatGPT For Remote Sensing](https://arxiv.org/abs/2304.13009) - This paper investigates the potential of Visual ChatGPT in remote sensing. Our findings expose the model's limitations but also forecast its transformative potential in remote sensing image processing. Here we discuss how Visual Large Language Models (LLMs) can be used in the remote sensing domain and assist users with image processing tasks.
  
 * [A Review on Deep Learning in UAV Remote Sensing](https://arxiv.org/abs/2101.10861) - This comprehensive review examines 232 papers featuring Deep Learning applications with UAV-acquired data. Our findings underscore Deep Learning's promise in processing UAV-based image data, particularly within environmental, urban, and agricultural contexts. 
 
