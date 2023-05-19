@@ -9,7 +9,13 @@
 I am an Environmental Engineer and Professor with a doctorate in Engineering, focusing on Environmental Technologies, and a postdoctoral degree in Natural Resources. My passion lies in Remote Sensing and Vegetation Analysis, and I'm excited about how Artificial Intelligence can revolutionize this field.
 
 ## Projects
-* [Project AI-Remote Sensing](https://github.com/LucasOsco/AI-RemoteSensing) - AI-RemoteSensing is a collection of Jupyter and Google Colaboratory notebooks dedicated to leveraging Artificial Intelligence in Remote Sensing applications. This repository serves as an open-source platform for researchers, educators, and professionals to explore, learn, and expand their knowledge in this exciting intersection of technologies.
+* [AI-Remote Sensing](https://github.com/LucasOsco/AI-RemoteSensing) - AI-RemoteSensing is a collection of Jupyter and Google Colaboratory notebooks dedicated to leveraging Artificial Intelligence in Remote Sensing applications. This repository serves as an open-source platform for researchers, educators, and professionals to explore, learn, and expand their knowledge in this exciting intersection of technologies.
+
+* [segment-geospatial](https://github.com/opengeos/segment-geospatial) - segment-geospatial is a Python package dedicated to segmenting geospatial data with the Segment Anything Model (SAM). Through the segment-anything-py and segment-geospatial Python packages, we aim to simplify the process of leveraging SAM for geospatial data analysis, enabling users to achieve this with minimal coding effort.
+
+## Organizations
+
+* [Open Geospatial Solutions](https://github.com/opengeos) - Open Geospatial Solutions is a collective of open-source geospatial software projects, developed and maintained by a community of geospatial software developers and researchers. All projects under Open Geospatial Solutions are free to use, modify, and are licensed under the MIT license. The organization promotes open-source resources and collaboration for researchers, educators, and professionals in the field of geospatial data science. New contributors and collaborators are always welcome.
 
 ## Published Work
 * [The Potential of Visual ChatGPT For Remote Sensing](https://arxiv.org/abs/2304.13009) - This paper investigates the potential of Visual ChatGPT in remote sensing. Our findings expose the model's limitations but also forecast its transformative potential in remote sensing image processing. Here we discuss how Visual Large Language Models (LLMs) can be used in the remote sensing domain and assist users with image processing tasks.
