@@ -15,7 +15,7 @@ I am an Environmental Engineer and Professor with a doctorate in Engineering, fo
 
 ## Organizations
 
-* [Open Geospatial Solutions](https://github.com/opengeos) - Open Geospatial Solutions is a collective of open-source geospatial software projects, developed and maintained by a community of geospatial software developers and researchers. All projects under Open Geospatial Solutions are free to use, modify, and are licensed under the MIT license. The organization promotes open-source resources and collaboration for researchers, educators, and professionals in the field of geospatial data science. New contributors and collaborators are always welcome.
+* [Open Geospatial Solutions](https://github.com/opengeos) - Open Geospatial Solutions is a collective of open-source geospatial software projects, developed and maintained by a community of geospatial software developers and researchers. All projects under Open Geospatial Solutions are free to use, modify, and are licensed under the MIT license. The organization promotes open-source resources and collaboration for researchers, educators, and professionals in the field of geospatial data science.
 
 ## Published Work
 * [The Potential of Visual ChatGPT For Remote Sensing](https://arxiv.org/abs/2304.13009) - This paper investigates the potential of Visual ChatGPT in remote sensing. Our findings expose the model's limitations but also forecast its transformative potential in remote sensing image processing. Here we discuss how Visual Large Language Models (LLMs) can be used in the remote sensing domain and assist users with image processing tasks.
