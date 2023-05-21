@@ -11,7 +11,7 @@ I am an Environmental Engineer and Professor with a doctorate in Engineering, fo
 ## Projects
 * [AI-Remote Sensing](https://github.com/LucasOsco/AI-RemoteSensing) - AI-RemoteSensing is a collection of Jupyter and Google Colaboratory notebooks dedicated to leveraging Artificial Intelligence in Remote Sensing applications. This repository serves as an open-source platform for researchers, educators, and professionals to explore, learn, and expand their knowledge in this exciting intersection of technologies.
 
-* [segment-geospatial](https://github.com/opengeos/segment-geospatial) - segment-geospatial is a Python package dedicated to segmenting geospatial data with the Segment Anything Model (SAM). Through the segment-anything-py and segment-geospatial Python packages, we aim to simplify the process of leveraging SAM for geospatial data analysis, enabling users to achieve this with minimal coding effort.
+* [Segment-Geospatial](https://github.com/opengeos/segment-geospatial) - Segment-Geospatial is a Python package dedicated to segmenting geospatial data with the Segment Anything Model (SAM). Through the segment-anything-py and segment-geospatial Python packages, we aim to simplify the process of leveraging SAM for geospatial data analysis, enabling users to achieve this with minimal coding effort.
 
 ## Organizations
 
