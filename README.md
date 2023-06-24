@@ -18,9 +18,9 @@ I am an Environmental Engineer and Professor with a doctorate in Engineering, fo
 * [Open Geospatial Solutions](https://github.com/opengeos) - Open Geospatial Solutions is a collective of open-source geospatial software projects, developed and maintained by a community of geospatial software developers and researchers. All projects under Open Geospatial Solutions are free to use, modify, and are licensed under the MIT license. The organization promotes open-source resources and collaboration for researchers, educators, and professionals in the field of geospatial data science.
 
 ## Published Work
-* [The Potential of Visual ChatGPT For Remote Sensing](https://arxiv.org/abs/2304.13009) - This paper investigates the potential of Visual ChatGPT in remote sensing. Our findings expose the model's limitations but also forecast its transformative potential in remote sensing image processing. Here we discuss how Visual Large Language Models (LLMs) can be used in the remote sensing domain and assist users with image processing tasks.
+* [The Potential of Visual ChatGPT For Remote Sensing](https://doi.org/10.3390/rs15133232) - This paper investigates the potential of Visual ChatGPT in remote sensing. Our findings expose the model's limitations but also forecast its transformative potential in remote sensing image processing. Here we discuss how Visual Large Language Models (LLMs) can be used in the remote sensing domain and assist users with image processing tasks.
  
-* [A Review on Deep Learning in UAV Remote Sensing](https://arxiv.org/abs/2101.10861) - This comprehensive review examines 232 papers featuring Deep Learning applications with UAV-acquired data. Our findings underscore Deep Learning's promise in processing UAV-based image data, particularly within environmental, urban, and agricultural contexts. 
+* [A Review on Deep Learning in UAV Remote Sensing](https://doi.org/10.1016/j.jag.2021.102456) - This comprehensive review examines 232 papers featuring Deep Learning applications with UAV-acquired data. Our findings underscore Deep Learning's promise in processing UAV-based image data, particularly within environmental, urban, and agricultural contexts. 
 
 [See all my publications](https://scholar.google.com/citations?user=aNzRGvQAAAAJ&hl)
 
