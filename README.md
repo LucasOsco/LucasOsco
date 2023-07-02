@@ -6,7 +6,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-%23A6CE39.svg?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0258-536X)
 
 ## About Me
-I am an Environmental Engineer and Professor with a doctorate in Engineering, focusing on Environmental Technologies, and a postdoctoral degree in Natural Resources. My passion lies in Remote Sensing and Vegetation Analysis, and I'm excited about how Artificial Intelligence can revolutionize this field.
+I am an Environmental Engineer and Professor with a doctorate in Engineering, focusing on Environmental Technologies, and a postdoctoral degree in Natural Resources. My passion lies in Remote Sensing and Vegetation Analysis, and I'm interested in how Artificial Intelligence can revolutionize this field.
 
 ## Projects
 * [AI-Remote Sensing](https://github.com/LucasOsco/AI-RemoteSensing) - AI-RemoteSensing is a collection of Jupyter and Google Colaboratory notebooks dedicated to leveraging Artificial Intelligence in Remote Sensing applications. This repository serves as an open-source platform for researchers, educators, and professionals to explore, learn, and expand their knowledge in this exciting intersection of technologies.
@@ -21,6 +21,8 @@ I am an Environmental Engineer and Professor with a doctorate in Engineering, fo
 * [The Potential of Visual ChatGPT For Remote Sensing](https://doi.org/10.3390/rs15133232) - This paper investigates the potential of Visual ChatGPT in remote sensing. Our findings expose the model's limitations but also forecast its transformative potential in remote sensing image processing. Here we discuss how Visual Large Language Models (LLMs) can be used in the remote sensing domain and assist users with image processing tasks.
  
 * [A Review on Deep Learning in UAV Remote Sensing](https://doi.org/10.1016/j.jag.2021.102456) - This comprehensive review examines 232 papers featuring Deep Learning applications with UAV-acquired data. Our findings underscore Deep Learning's promise in processing UAV-based image data, particularly within environmental, urban, and agricultural contexts. 
+
+* [The Segment Anything Model (SAM) for Remote Sensing Applications: From Zero to One Shot](https://doi.org/10.48550/arXiv.2306.16623) - We examine Meta AI's Segment Anything Model (SAM) for remote sensing. Despite certain limitations, SAM's promising performance across diverse contexts underscores its potential in this domain. We increased SAM's accuracy and reduced manual annotation by combining general examples and one-shot training. We suggest further enhancements and provide our modifications' open-source code for broader SAM adaptations.
 
 [See all my publications](https://scholar.google.com/citations?user=aNzRGvQAAAAJ&hl)
 
